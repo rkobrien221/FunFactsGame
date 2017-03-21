@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.androidbootcamp.funfactproject">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/customTheme"> <!-- activity themes -->
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/customTheme"> <!-- main screen themes -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Cat1Q1"
+            android:label="@string/title_activity_cat1_q1" />
+        <activity
+            android:name=".Cat1Q2"
+            android:label="@string/title_activity_cat1_q2" />
+        <activity
+            android:name=".Cat2Q1"
+            android:label="@string/title_activity_cat2_q1" />
+        <activity
+            android:name=".Cat3Q1"
+            android:label="@string/title_activity_cat3_q1" />
+        <activity
+            android:name=".Cat1Q3"
+            android:label="@string/title_activity_cat1_q3" />
+        <activity
+            android:name=".Cat2Q2"
+            android:label="@string/title_activity_cat2_q2" />
+        <activity
+            android:name=".Cat2Q3"
+            android:label="@string/title_activity_cat2_q3" />
+        <activity
+            android:name=".Cat3Q2"
+            android:label="@string/title_activity_cat3_q2" />
+        <activity
+            android:name=".Cat3Q3"
+            android:label="@string/title_activity_cat3_q3" />
+
+    </application>
+
+</manifest>

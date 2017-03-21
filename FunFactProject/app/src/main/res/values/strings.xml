@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Guess the Fact: Gaming!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cat1_q1">Diablo</string>
+    <string name="title_activity_cat1_q2">Diablo</string>
+    <string name="title_activity_cat1_q3">Diablo</string>
+    <string name="title_activity_cat2_q1">Hyperdimesion Neptunia</string>
+    <string name="title_activity_cat2_q2">Hyperdimesion Neptunia</string>
+    <string name="title_activity_cat2_q3">Hyperdimesion Neptunia</string>
+    <string name="title_activity_cat3_q1">Darksouls</string>
+    <string name="title_activity_cat3_q2">Darksouls</string>
+    <string name="title_activity_cat3_q3">Darksouls</string>
+
+    <string name="AppTitle">Guess the Fact: Gaming!</string>
+
+    <string name="btnHome">Home</string>
+    <string name="btnNext">Next</string>
+    <string name="btnCheck">Check</string>
+    <string name="btnBack">Back</string>
+
+    <!--Category 1 Question 1-->
+    <string name="question_Cat1Q1">What console was this unfinished version of Diablo destined for.</string>
+    <string name="answer1_Cat1Q1">PlayStation</string>
+    <string name="answer2_Cat1Q1">GameBoy</string>
+    <string name="answer3_Cat1Q1">Super Nintendo</string>
+    <!--Category 1 Question 2-->
+    <string name="question_Cat1Q2">Faces from hell appear screaming on the warp gate.  Whose faces are they?</string>
+    <string name="answer1_Cat1Q2">The souls of humans trapped in Hell.</string>
+    <string name="answer2_Cat1Q2">The demonic forces wsaiting to cross into the mortal world.</string>
+    <string name="answer3_Cat1Q2">The faces of the Blizzard staff.</string>
+    <!--Category 1 Question 3-->
+    <string name="question_Cat1Q3">Diablo speaks to the player in a demonic tongue. What is the hidden message when played in reverse?</string>
+    <string name="answer1_Cat1Q3">Eat your vegetables and brush after every meal.</string>
+    <string name="answer2_Cat1Q3">Not even death can save you from me.</string>
+    <string name="answer3_Cat1Q3">Welcome home, Brother!</string>
+    <string name="title_activity_cat1_q1_image">Cat1Q1Image</string>
+
+
+
+    <!--Category 2 Question 1-->
+    <string name="question_Cat2Q1">What is the series Main Character, Neptune, named after?</string>
+    <string name="answer1_Cat2Q1">A Planet</string>
+    <string name="answer2_Cat2Q1">An Unreleased Console</string>
+    <string name="answer3_Cat2Q1">A Roman</string>
+    <!--Category 2 Question 2-->
+    <string name="question_Cat2Q2">What was one of the core ideas behind the series creation?</string>
+    <string name="answer1_Cat2Q2">Greek Gods that can transform</string>
+    <string name="answer2_Cat2Q2">Buddhas teachings of peace and love</string>
+    <string name="answer3_Cat2Q2">Cute Girls that can transform</string>
+    <!--Category 2 Question 3-->
+    <string name="question_Cat2Q3">What is the main theme surrounding the series?</string>
+    <string name="answer1_Cat2Q3">Cute Girls doing Cute Things</string>
+    <string name="answer2_Cat2Q3">My waifu is better than yours</string>
+    <string name="answer3_Cat2Q3">Everything is based on Video Game hardware</string>
+
+
+
+
+    <!--Category 3 Question 1-->
+    <string name="question_Cat3Q1">In Darksouls 1 how do you instantly kill Ceaseless Discharge?</string>
+    <string name="answer1_Cat3Q1">Insult his Waifu</string>
+    <string name="answer2_Cat3Q1">Provoke him into attacking you and lure him near the entrance</string>
+    <string name="answer3_Cat3Q1">git gud</string>
+    <!--Category 3 Question 2-->
+    <string name="question_Cat3Q2">In Darksouls 2 how do you get Sir Alonne to commit sepukku?</string>
+    <string name="answer1_Cat3Q2">git gud</string>
+    <string name="answer2_Cat3Q2">Beat him with one hand behind your back while unarmed</string>
+    <string name="answer3_Cat3Q2">Beat him within 5 miniutes without taking damage</string>
+    <!--Category 3 Question 3-->
+    <string name="question_Cat3Q3">What Anime/Manga is Artorias of the Abyss based off in Darksouls 1?</string>
+    <string name="answer1_Cat3Q3">Berserk</string>
+    <string name="answer2_Cat3Q3">git gud</string>
+    <string name="answer3_Cat3Q3">JoJos Bizarre Adventure</string>
+
+</resources>
